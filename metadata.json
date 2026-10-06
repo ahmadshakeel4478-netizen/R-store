@@ -1,0 +1,8 @@
+{
+  "name": "Remix Rehan Store",
+  "description": "All-in-one e-commerce marketplace to buy and sell products with Flipkart-style browsing, live tracking, and secure payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
